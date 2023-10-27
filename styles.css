@@ -152,7 +152,7 @@ h1{
     overflow-x: hidden;
     overflow-y: auto;
     background: linear-gradient(27deg, rgba(34,193,195,1) 1%, rgba(215,167,59,1) 100%, rgba(253,187,45,1) 100%);
-
+    align-items: start;
     }
     h1{
         text-align: center;
